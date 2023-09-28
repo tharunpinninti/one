@@ -6,9 +6,9 @@
 	
 	<h1> hello adding one more line </h1>
         <h2>adding second line<h2>
-<h1>adding heading</h1>
-	<h1>hai all how are you</h1>
-<h1>hai</h1>
+<h1>how are </h1>
+	<h1> how are you</h1>
+<h1>how</h1>
 
 
 	
